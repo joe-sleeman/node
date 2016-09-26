@@ -1,0 +1,11 @@
+{
+  "name": "simple-server",
+  "version": "1.0.0",
+  "description": "Very simple server",
+  "main": "server.js",
+  "scripts": {
+    "test": "\u001b[C"
+  },
+  "author": "Joe Sleeman",
+  "license": "ISC"
+}
